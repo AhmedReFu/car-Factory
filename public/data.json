@@ -1,0 +1,181 @@
+[
+    {
+        
+        "name":"Yamaha",
+         "brand":"https://motosymbol.com/wp-content/uploads/2021/02/Yamaha-Logo.png",
+         "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)",
+         "currentDate":9,
+         "allbike":[
+            {
+                "id":1,
+                "name": "Yamaha YZF-R15" ,
+                "img": "https://api.valogari.com/api/upload/images/img-20221201-wa0016-e9ec.jpg" ,
+                "location": "Dhaka" ,
+                "price": 350000,
+                "resalePrice": 300000 , 
+                "modelYear":2019,
+                "usedTime":5,
+                "category":"Used",
+                "mileage": 25000,
+                "type":"Good",
+                "mobile":"+880184545456",
+                "description":"This bike is very good and it is very well used and this bike is driven in very good roads and the roads are very nice and very unique so I can say that this biked will be very good if you Buy",
+                "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+
+                 
+            },
+            {
+                "id":2,
+                "name": "Yamaha MT-15" ,
+                "img": "https://api.valogari.com/api/upload/images/whatsapp-image-2022-11-29-at-10-6a04.jpeg" ,
+                "location": "Chittagong" ,
+                "price": 5550000,
+                "resalePrice": 4850000 , 
+                "modelYear":2018,
+                "usedTime":3,
+                "category":"Recondition",
+                "mileage": 30000,
+                "type":"Excellent",
+                "mobile":"+8801658878",
+                "description":"This bike has been meticulously sourced and very nicely reconditioned from its showroom perfectly with various finishes throughout the song and then sport driven.",
+                "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+
+                 
+            },
+            {
+                "id":3,
+                "name": "Yamaha Fazer" ,
+                "img": "https://bhalogari-static.s3.amazonaws.com/media/Fazer_1639495642_5333722.webp" ,
+                "location": "Chittagong" ,
+                "price": 5550000,
+                "resalePrice": 4850000 , 
+                "modelYear":2018,
+                "usedTime":3,
+                "category":"Recondition",
+                "mileage": 40500,
+                "type":"Good",
+                "mobile":"+88017815666",
+                "description":"The owner of this bike bought this song as a hobby and drives it as a hobby and it is very nice and Unique.New model things are added in this song and the speed of this bike is very great Iran can move very fast per second.",
+                "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+
+                 
+            }
+         ]
+    },
+    {
+       
+        "name":"Suzuki",
+        "brand":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Suzuki_logo_2.svg/2560px-Suzuki_logo_2.svg.png",
+        "currentDate":9,
+        "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)",
+         "allbike":[
+            {
+                "id":1,
+                "name": "Suzuki Gixxer 155" ,
+                "img": "https://bhalogari-static.s3.amazonaws.com/media/Gixxer_155_1644482157_5766897.webp" ,
+                "location": "Chittagong" ,
+                "price": 770000,
+                "resalePrice": 5650000 , 
+                "modelYear":2017,
+                "usedTime":4,
+                "category":"Recondition",
+                "mileage": 37000,
+                "type":"fair",
+                "mobile":"+8801897652536",
+                "description":"The owner of this bike bought this song as a hobby and drives it as a hobby and it is very nice and Unique.New model things are added in this song and the speed of this bike is very great Iran can move very fast per second.",
+                "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+            },
+            {
+                "id":2,
+                "name": "Suzuki Gixxer SF" ,
+                "img": "https://bhalogari-static.s3.amazonaws.com/media/Gixxer_SF_1639494648_948686.webp" ,
+                "location": "Chittagong" ,
+                "price": 870000,
+                "resalePrice": 3450000 , 
+                "modelYear":2018,
+                "usedTime":3,
+                "category":"Used",
+                "mileage": 74000,
+                "type":"fair",
+                "mobile":"+8801897652",
+                "description":"This bike has been meticulously sourced and very nicely reconditioned from its showroom perfectly with various finishes throughout the song and then sport driven.",
+                "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+            },
+            {
+                "id":3,
+                "name": "Suzuki GSX-R150" ,
+                "img": "https://bhalogari-static.s3.amazonaws.com/media/GSX_R150_1639165983_679205.webp" ,
+                "location": "Chittagong" ,
+                "price": 370000,
+                "resalePrice": 2050000 , 
+                "modelYear":2017,
+                "usedTime":4,
+                "category":"Recondition",
+                "mileage": 51000,
+                "type":"Good",
+                "mobile":"+88017815666",
+                "description":"This bike is very good and it is very well used and this bike is driven in very good roads and the roads are very nice and very unique so I can say that this biked will be very good if you Buy",
+                "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+            }
+
+         ]
+    },
+   {
+
+    "name":"Honda",
+    "brand":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Honda_Logo.svg/2552px-Honda_Logo.svg.png",
+    "currentDate":9,
+    "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)",
+     "allbike":[
+        {
+            "id":1,
+                "name": "Honda CBR 2021" ,
+                "img": "https://api.valogari.com/api/upload/images/whatsapp-image-2022-11-29-at-9-8f11.jpeg" ,
+                "location": "Chittagong" ,
+                "price": 695000,
+                "resalePrice": 4350000 , 
+                "modelYear":2011,
+                "usedTime":10,
+                "category":"Used",
+                "mileage": 52000,
+                "type":"Good",
+                "mobile":"+88017815666",
+                "description":"The owner of this bike bought this song as a hobby and drives it as a hobby and it is very nice and Unique.New model things are added in this song and the speed of this bike is very great Iran can move very fast per second.",
+                "curentDate":"Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+        },
+        {
+            "id":2,
+                "name": "Honda CBR 155" ,
+                "img": "https://api.valogari.com/api/upload/images/img-20221201-wa0019-4947.jpg" ,
+                "location": "Chittagong" ,
+                "price": 10695000,
+                "resalePrice": 8350000 , 
+                "modelYear":2016,
+                "usedTime":4,
+                "category":"Recondition",
+                "mileage": 30000,
+                "type":"fair",
+                "mobile":"+880546516565",
+                "description":"This bike is very good and it is very well used and this bike is driven in very good roads and the roads are very nice and very unique so I can say that this biked will be very good if you Buy",
+                "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+        },
+        {
+            "id":3,
+                "name": "Honda Gixxer 155cc" ,
+                "img": "https://api.valogari.com/api/upload/images/img-20221125-wa0005-46d7.jpg" ,
+                "location": "Chittagong" ,
+                "price": 555000,
+                "resalePrice": 2350000 , 
+                "modelYear":2005,
+                "usedTime":15,
+                "category":"Used",
+                "mileage": 25000,
+                "type":"Excellent",
+                "mobile":"+8835235356656",
+                "description":"This bike has been meticulously sourced and very nicely reconditioned from its showroom perfectly with various finishes throughout the song and then sport driven.",
+                "curentDate": "Fri Nov 25 2022 12:14:04 GMT+0600 (Bangladesh Standard Time)"
+        }
+        
+     ]
+   }
+]
